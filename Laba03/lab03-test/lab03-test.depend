@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554111424 source:i:\laba03\labka03\nistogram.cpp
+	"histogram.h"
+
+1554111424 i:\laba03\labka03\histogram.h
+	<vector>
+
+1555276810 source:i:\laba03\lab03-test\test.cpp
+	"histogram.h"
+	<cassert>
+	<iostream>
+
+1554111424 i:\laba03\lab03-test\histogram.h
+	<vector>
+

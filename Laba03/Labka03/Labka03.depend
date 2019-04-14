@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554111104 source:i:\laba03\labka03\main.cpp
+	<iostream>
+	<vector>
+	"histogram.h"
+
+1554111424 i:\laba03\labka03\histogram.h
+	<vector>
+
